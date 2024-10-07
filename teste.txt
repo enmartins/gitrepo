@@ -2,3 +2,6 @@ Primeiro arquivo de teste
 teste
 teste
 teste
+teste1
+teste2
+Realizando o merge.
